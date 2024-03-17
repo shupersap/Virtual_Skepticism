@@ -15,4 +15,5 @@ Angst still fills the air at the mention of crypto, more specifically those eith
 
 ### Crypto in Question
 Due to a mass variety present in crypto options, a subsection of the market needs to be selected, as limitations on api calls,resource management, and time become an issue.
-The selected cryptos will involve the highest current(3/14/24) market cap cryptos currently
+The selected cryptos will involve the highest current(3/14/24) market cap cryptos currently: Bitcoin, Ethereum, Binance, Solana, and XRP
+
